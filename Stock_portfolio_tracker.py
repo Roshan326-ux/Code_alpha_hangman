@@ -25,4 +25,3 @@ portfolio.add_stock('AAPL', 100)
 portfolio.add_stock('GOOGL', 50)
 portfolio.update_prices()
 print(portfolio.calculate_total_value())
-
